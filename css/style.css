@@ -1,0 +1,165 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	line-height: 1.328571;
+	background-image: url('images/background.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+p, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	margin: 4px;
+}
+
+#container1 {
+	margin-top: -20px;
+}
+
+#logoID {
+	height: 180%;
+	padding-bottom: 8px;
+}
+
+.filler1 {
+	margin-left: -12px;
+}
+
+#setBotMargin {
+	margin-bottom: 220px;
+}
+
+.filler1, .filler2 {
+	width: 628px;
+    height: 352px;
+}
+
+.filler2 {
+	margin-left: -61px;
+    width: 634px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 44px;
+	line-height: 1.29;
+	margin: 1.236em 0 .618em;
+}
+
+h3 {
+	font-weight: 300;
+}
+
+.header2 {
+	text-align: center;
+}
+
+.bold, .bold2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+}
+
+.bold2 {
+	margin-left: 113px;
+}
+
+#glyph {
+	padding-right: 9px;
+}
+
+.createCampaign {
+	margin-top: 10px;
+	padding-left: 35px;
+	padding-right: 185px;
+	line-height: 1.6;
+}
+
+.createCampaignRight {
+	margin-top: 10px;
+	margin-left: 113px;
+	line-height: 1.6;
+	padding-left: 35px;
+	padding-right: 65px;
+
+}
+
+#rightSideContainer {
+	margin-top: 6px;
+}
+
+/*Footer*/
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 280px;
+  background: 
+  /* color overlay */ 
+    linear-gradient(
+      rgba(255, 255, 255, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    )
+    /* image to overlay */
+    /*url(http://images.cdn.fotopedia.com/_avPIZmqM3w-7z161LH_268-hd.jpg);*/
+
+}
+
+
+/* Custom footer CSS */
+
+.footertext {
+  color: #202020;
+}
+
+/*White we use : #E0E0E0
+Black we use : #202020*/
+.form-control {
+	position: relative;
+	margin: 0 auto;
+	width: 40%;
+    background: #fff;
+    /*margin-left: 30%;*/
+    margin-top: 25px;
+}
+
+button {
+	margin-top: 15px;
+}
+
+button:hover {
+	/*background-color: #0085B6;*/
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+
+.btn-outline-light {
+    color: #f8f9fa;
+    background-color: transparent;
+    background-image: none;
+    border-color: #f8f9fa;
+}
+
+
+
